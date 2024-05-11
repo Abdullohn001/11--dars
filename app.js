@@ -50,9 +50,8 @@
 //6- masala
 // let raqam = [5,4,6,3];
 // let raqam2 = [6,8,9];
-// let SonlarYigindisi = raqam.reduce((yigindi, son) => yigindi + son);
-// let SonlarYigindisi2 = raqam2.reduce((yigindi, son) => yigindi + son);
-// console.log(SonlarYigindisi + SonlarYigindisi2)
+// const yigindi = raqam.concat(raqam2).reduce((acc, curVal) => (acc+=curVal));
+// console.log(yigindi)
 
 
 //7- masala
