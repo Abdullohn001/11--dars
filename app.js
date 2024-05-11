@@ -63,3 +63,15 @@
 // }
 // console.log(make("hello worlds"))
 
+// 8 - masala 
+// const array = [1,2,3,4,5];
+// let rever = array.sort((a,b) => (b - a));
+// console.log(rever)
+// 8 - masala 2- usul
+// const array = [1, 2, 3, 4, 5];
+// const newarr = [];
+// array.forEach((item) => newarr.unshift(item));
+// console.log(newarr)
+
+//9-masala
+
