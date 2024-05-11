@@ -55,12 +55,11 @@
 
 
 //7- masala
-// function make(str) {
-//     let word = str.split("");
-//         word.pop();
-//         word.shift();
-//         return word.join("");
-//  }
-
-
+// function make (word){
+//     let made = word.split("")
+//     made.pop()
+//     made.shift()
+//     return made.join("")
+// }
+// console.log(make("hello worlds"))
 
