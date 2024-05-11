@@ -20,10 +20,18 @@
 // }
 
 //3-masala
-// let son = prompt("raqam kiriting");
-// for(let i = 1; i <= son; i++ ){
-//     console.log([i])
+// let son = prompt("son kiriting");
+// let array = [];
+// function recursive(s) {
+//   array.unshift(son);
+//   son--;
+//   if (1 <= son) {
+//     recursive();
+//   }
+//   return array;
 // }
+// console.log(recursive());
+
 
 //4-masala
 // let sonlar = [1, 2, 3, 4, 5, 6, 7, 8, 9];
